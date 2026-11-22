@@ -6,9 +6,10 @@ news of Sunday 22 November 2026.
 ## The image
 
 A newspaper front page, composed as `entry.png` (1024×1024, JPEG bytes under
-the name `entry.png`, 276 KB):
+the name `entry.png`, ~290 KB):
 
-- **Masthead** — "THE WORLD LEDGER", dated **Sunday, November 22, 2026**.
+- **Masthead** — "THE WORLD LEDGER", dated **Sunday, November 22, 2026**,
+  with a sources line naming Reuters, AP, AFP, Al Jazeera and CNN.
 - **Lead** — "CLIMATE TALKS COLLAPSE": COP31 ends in Antalya with no deal,
   the EU rejecting a final text silent on fossil fuels, over a purpose-built
   illustration of the empty COP31 hall (storm over the sea outside, delegates
@@ -27,6 +28,10 @@ the name `entry.png`, 276 KB):
   5. **EU–Indonesia** — Trade deal signed after a decade of talks; tariffs
      scrapped on up to 98.5% of goods.
   6. **Cikande, Indonesia** — Factory fire kills 3, dozens missing.
+- **Global Watch** — a world map with the six story locations dotted and
+  labelled (Antalya, Bahrain, Sinaloa, Kyiv, Jakarta, New York).
+- **The Day in Numbers** — 3.7% (S&P 500 weekly fall), 11 (dead in the
+  Sinaloa raid), 14 (missing near Kyiv), 98.5% (goods tariff-free).
 - **Also today** — BepiColombo enters orbit around Mercury; South Korea's
   education minister resigns over AI cheating; FBI probes a hack of its crime
   database; 24 dead as a boat capsizes in Nigeria.
